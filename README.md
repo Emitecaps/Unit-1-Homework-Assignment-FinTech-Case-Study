@@ -1,6 +1,6 @@
 # THE LEDGER NANO X
 ## Overview and Origin:
-   Crypto hard wallet released on May 27, 2021 made by Ledger, founded in Paris, France.
+   Crypto hard wallet released on May 27, 2021 developed by Ledger, founded in Paris, France.
 ## Company incorporated:
    2014
 ## Founders:
