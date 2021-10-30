@@ -1,8 +1,8 @@
-# THE LEDGER WALLET
+# THE LEDGER NANO X
 ## Overview and Origin:
-   Ledger wallets are crypto hard wallets made by Ledger, founded in Paris, France.
+   Crypto hard wallet released on May 27, 2021 made by Ledger, founded in Paris, France.
 ## Company incorporated:
-  2014
+   2014
 ## Founders:
 - Ian Rogers
 - Alexandre Blanc
@@ -13,7 +13,7 @@
 - Jean-Michel Pailhon
 - Quentin Ricomard
 ## How did the idea for the company (or project) come about?
-- From the idea of creating a security solution for blockchain applications.
+- From the idea of creating a security solution for blockchain applications and access to apps and coins all in one place.
 ## How is the company funded? 
    Ledger has received a total of 8 rounds of funding:
 - 3/1/2013: Pre Seed Round 
